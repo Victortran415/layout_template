@@ -47,6 +47,39 @@ main {
     float: left;
 }
 
+.top{
+    height: 50%;
+    background-color: red;
+}
+
+.grid1 {
+    height: 50%;
+    width: 50%;
+    background-color: burlywood;
+    float: left;
+}
+
+.grid2 {
+    height: 50%;
+    width: 50%;
+    background-color: lime;
+    float: left;
+}
+
+.grid3 {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(141, 47, 230);
+    float: left;
+}
+
+.grid4 {
+    height: 50%;
+    width: 50%;
+    background-color: rgb(173, 0, 81);
+    float: left;
+}
+
 .right {
     background-color: cyan;
     float: right;
