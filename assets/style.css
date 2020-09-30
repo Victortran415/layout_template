@@ -61,7 +61,7 @@ main {
     background-color: black;
     height: 60px;
     width: 60px;
-    /* border-radius: 15px; */
+    border-radius: 15px;
 }
 
 footer {
